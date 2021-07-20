@@ -13,3 +13,5 @@
 Here we will use the RESNET model for the classification of the X-Rays. We will use Transfer Learning, and get the pretrained model from torchvision Library in python. 
 
 ResNet, short for Residual Networks is a classic neural network used as a backbone for many computer vision tasks. This model was the winner of ImageNet challenge in 2015. The fundamental breakthrough with ResNet was it allowed us to train extremely deep neural networks with 150+layers successfully.
+
+Dataset link: https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
