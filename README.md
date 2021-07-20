@@ -1,6 +1,6 @@
 # Covid-19-Radiography-RESNET18
 
-# How Accurate is Chest Imaging for Diagnosing COVID-19?
+### How Accurate is Chest Imaging for Diagnosing COVID-19?
 
 ![](https://www.iaea.org/sites/default/files/styles/third_page_width_portrait_2_3/public/chestxray.png?itok=z07bhz5h&c=b64d5f5d9a54f1cfd815edc18198844a)
 
